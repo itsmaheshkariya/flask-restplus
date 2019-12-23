@@ -2,7 +2,7 @@
 Python REST API Documentation For CRUD operations through SQLite and Swagger.
 
 ### Git Clone 
-```git remote add origin https://github.com/maheshkareeya/flask-restplus.git```
+```git clone https://github.com/maheshkareeya/flask-restplus.git```
 
 ### Change Directory
 ```cd flask-restplus```
@@ -23,6 +23,7 @@ Python REST API Documentation For CRUD operations through SQLite and Swagger.
 ### Start Server
 ```flask run```
 
+http://localhost:5000
 
 ### Demo
 
